@@ -1,4 +1,4 @@
-21616513813481185
+21589571061409921
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90069,6 +90069,13 @@ varistor
 2
 2
 xiao_256
+D_DO-35_SOD27_P7.62mm_Horizontal
+Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf
+Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm
+0
+2
+2
+xiao_256
 D_SOD-123
 Diode SOD-123
 diode, SOD-123
@@ -90082,6 +90089,13 @@ mounting hole 2.2mm m2
 0
 9
 1
+xiao_256
+PinHeader_1x02_P2.54mm_Vertical
+Through hole straight pin header, 1x02, 2.54mm pitch, single row
+Through hole pin header THT 1x02 2.54mm single row
+0
+2
+2
 xiao_256
 ProMicro
 SparkFun Arduino Pro Micro ATmega32U4
