@@ -659,7 +659,7 @@
 
   (footprint "xiao_256:Mount_M2" (layer "F.Cu")
     (tstamp 267156ec-2a51-45b6-8dcf-6334ac307725)
-    (at 140 110)
+    (at 139 112.5)
     (descr "Mounting Hole 2.2mm, M2")
     (tags "mounting hole 2.2mm m2")
     (property "Sheetfile" "xiao_256.kicad_sch")
@@ -1424,7 +1424,7 @@
 
   (footprint "xiao_256:Mount_M2" (layer "F.Cu")
     (tstamp 4fb33a84-fe15-41f3-8d1f-ab15f4997088)
-    (at 140 45.5)
+    (at 139 45.5)
     (descr "Mounting Hole 2.2mm, M2")
     (tags "mounting hole 2.2mm m2")
     (property "Sheetfile" "xiao_256.kicad_sch")
@@ -4819,7 +4819,7 @@
 
   (footprint "xiao_256:Mount_M2" (layer "F.Cu")
     (tstamp ed8e976b-d540-45f2-a1d8-778dda9fc8b6)
-    (at 154 110)
+    (at 154 112.5)
     (descr "Mounting Hole 2.2mm, M2")
     (tags "mounting hole 2.2mm m2")
     (property "Sheetfile" "xiao_256.kicad_sch")
@@ -5106,7 +5106,7 @@
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp dde64fdd-8cc3-4ff7-95d2-c525354989c5))
   (gr_line (start 22 20) (end 155.5 20)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp e824e711-8940-4812-93e7-7d1c56db60b8))
-  (gr_text "JLCJLCJLCJLC" (at 147 113.5) (layer "F.SilkS") (tstamp 083e589d-3848-45d6-b7d4-f06bd8bba9fc)
+  (gr_text "JLCJLCJLCJLC" (at 146.5 43.5) (layer "F.SilkS") (tstamp 083e589d-3848-45d6-b7d4-f06bd8bba9fc)
     (effects (font (size 1 1) (thickness 0.15)) (justify bottom))
   )
 
