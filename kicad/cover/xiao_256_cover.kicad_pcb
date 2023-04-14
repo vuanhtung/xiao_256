@@ -201,8 +201,8 @@
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 98cf7a82-7cc3-4e37-ab79-d36ed270f9d7))
   (gr_line (start 50.085786 110.085786) (end 32.085786 110.085786)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp f1c05d4f-d4bc-4736-be11-65e1e237dc83))
-  (gr_text "JLCJLCJLCJLC" (at 38 36.5 -90) (layer "B.SilkS") (tstamp a464c30d-408a-4d21-af5c-41a63c7f702c)
-    (effects (font (size 1 1) (thickness 0.15)) (justify left bottom mirror))
+  (gr_text "JLCJLCJLCJLC" (at 41.5 107.5) (layer "F.SilkS") (tstamp a464c30d-408a-4d21-af5c-41a63c7f702c)
+    (effects (font (size 1 1) (thickness 0.15)) (justify bottom))
   )
 
 )
