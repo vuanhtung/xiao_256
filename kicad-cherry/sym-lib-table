@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "xiao_256")(type "KiCad")(uri "${KIPRJMOD}/../kicad-libraries/xiao_256-components/xiao_256-components.kicad_sym")(options "")(descr ""))
+)
